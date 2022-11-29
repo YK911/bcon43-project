@@ -1,2 +1,8 @@
-@import './common';
-@import './example';
+// utils styles
+@import './utils/normalize';
+
+// base styles
+@import './base/common';
+
+// components styles
+@import './components/btn';
